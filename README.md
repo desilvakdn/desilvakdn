@@ -1,5 +1,8 @@
-# 💫 About Me:
-I’m a Full Stack Software Engineer specializing in the MERN stack, including Next.js, TypeScript, SQL databases, and Tailwind CSS.<br><br>🌟 I'm looking to work as: A Full Stack Software Engineer in a growing and collaborative team.<br>🔭 Currently working on: Personal projects aimed at improving productivity.<br>👯 Looking to collaborate on: React.js and Next.js open-source projects to support the developer community.<br>🤝 Looking for help with: Building more SaaS applications to solve meaningful problems in society.<br>🌱 Currently learning: DevOps, microservices, and other advanced backend technologies.<br>💬 Ask me about: SaaS development using MERN stack technologies like React.js, Node.js, and MongoDB.<br>⚡ Fun fact: I’ve built and managed a SaaS platform with over 100k international users as a solo developer!
+<h1 align="center">Hi 👋, I'm Dinuka Nilupul</h1>
+<h3 align="center">A passionate full stack software engineer from Sri Lanka</h3>
+
+### 💫 About Me:
+I’m a Full Stack Software Engineer specializing in the MERN stack, including Next.js, TypeScript, SQL databases, and Tailwind CSS.<br><br>🌟 I'm looking to work as: A Full Stack Software Engineer in a growing and collaborative team.<br>🔭 Currently working on: Personal projects aimed at improving productivity.<br>👯 Looking to collaborate on: React.js and Next.js open-source projects to support the developer community.<br>🤝 Looking for help with: Building more SaaS applications to solve meaningful problems in society.<br>🌱 Currently learning: DevOps, microservices, and other advanced backend technologies.<br>👨‍💻 All of my projects are available at [https://dinukanilupul.dev](https://dinukanilupul.dev)<br>📫 How to reach me **dinukanilupul@syntaximos.com**<br>💬 Ask me about: SaaS development using MERN stack technologies like React.js, Node.js, and MongoDB.<br>⚡ Fun fact: I’ve built and managed a SaaS platform with over 100k international users as a solo developer!
 
 
 ## 🌐 Socials:
