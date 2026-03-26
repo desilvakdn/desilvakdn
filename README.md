@@ -2,17 +2,12 @@
 <h3 align="center">A passionate full stack software engineer from Sri Lanka</h3>
 
 ### 💫 About Me:
-I’m a Full Stack Software Engineer specializing in the MERN stack, including Next.js, TypeScript, SQL databases, and Tailwind CSS.<br><br>🌟 I'm looking to work as: A Full Stack Software Engineer in a growing and collaborative team.<br>🔭 Currently working on: [FoundStep](https://foundstep.com) (a project management tool that helps indie developers actually finish what they start).<br>👯 Looking to collaborate on: React.js and Next.js open-source projects to support the developer community.<br>🤝 Looking for help with: Building more SaaS applications to solve meaningful problems in society.<br>🌱 Currently learning: DevOps, microservices, and other advanced backend technologies.<br>👨‍💻 All of my projects are available at [https://dinukanilupul.dev](https://dinukanilupul.dev)<br>📫 How to reach me **dinukanilupul@syntaximos.com**<br>💬 Ask me about: SaaS development using MERN stack technologies like React.js, Node.js, and MongoDB.<br>⚡ Fun fact: I’ve built and managed a SaaS platform with over 100k international users as a solo developer!
+I’m a Full Stack Software Engineer specializing in the MERN stack, including Next.js, TypeScript, SQL databases, and Tailwind CSS.<br><br>🌟 I'm looking to work as: A Full Stack Software Engineer in a growing and collaborative team.<br>🔭 Currently working on: [FoundStep](https://foundstep.com) (a project management tool that helps indie developers actually finish what they start).<br>👯 Looking to collaborate on: React.js and Next.js open-source projects to support the developer community.<br>🤝 Looking for help with: Building more SaaS applications to solve meaningful problems in society.<br>🌱 Currently learning: DevOps, microservices, and other advanced backend technologies.<br>👨‍💻 All of my projects are available at [https://dinukanilupul.dev](https://dinukanilupul.dev)<br>📫 How to reach me **dinukanilupul@syntaximos.com**<br>💬 Ask me about: SaaS development using MERN stack technologies like React.js, Node.js, and MongoDB.<br>⚡ Fun fact: I've built and managed a SaaS platform with over 100k international users as a solo developer, and I'm now building [FoundStep](https://foundstep.com) to help other indie devs ship their projects!
 
 ### 🚀 My Projects:
 [![FoundStep](https://img.shields.io/badge/FoundStep-Ship%20Your%20Projects-blue?style=for-the-badge)](https://foundstep.com)
 
 A project management tool built for indie developers who keep starting projects but never finish them. Scope locking, AI-powered directives, and a public shipping portfolio.
-```
-
-**3. Update the fun fact line to reference it**
-```
-⚡ Fun fact: I've built and managed a SaaS platform with over 100k international users as a solo developer, and I'm now building [FoundStep](https://foundstep.com) to help other indie devs ship their projects!
 
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dinukanilupul1999) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dinukanilupul) 
